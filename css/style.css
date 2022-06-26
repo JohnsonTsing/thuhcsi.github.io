@@ -618,9 +618,6 @@ textarea.form-control {
   .nav-bg:hover {
     opacity: 1.0;
   }
-  .nav-bg:hover .navbar-brand img {
-    width: 280px;
-  }
 }
 
 .nav-item {
